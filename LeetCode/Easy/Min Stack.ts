@@ -1,6 +1,8 @@
 class MinStack {
     minStack: Array<number>;
     stack: Array<number>;
+    minTop: number;
+    stackTop: number;
 
     constructor() {
         this.minStack = new Array<number>();
@@ -11,33 +13,35 @@ class MinStack {
         if (this.minStack.length == 0) {
             this.minStack.push(val);
             this.stack.push(val);
+            this.minTop = val;
+            this.stackTop = val;
 
-        } else if(val <= this.minStack[this.minStack.length-1]) {
+        } else if(val <= this.minTop) {
             this.minStack.push(val);
             this.stack.push(val);
-            console.log("pushing min"+val);
-
+            this.minTop = val;
+            this.stackTop = val;
         } else {
             this.stack.push(val);
-            console.log("pushing max"+val);
+            this.stackTop = val;
         }
     }
 
     pop(): void {
         let val:number = this.stack.pop();
-        if (this.minStack[this.minStack.length-1] == val) {
+        this.stackTop = this.stackTop = this.stack[this.stack.length-1];
+        if (this.minTop == val) {
             this.minStack.pop();
+            this.minTop = this.minStack[this.minStack.length-1];
         }
     }
 
     top(): number {
-        console.log(this.minStack);
-        return this.stack[this.stack.length-1];
+        return this.stackTop;
     }
 
     getMin(): number {
-        console.log(this.stack);
-        return this.minStack[this.minStack.length-1]
+        return this.minTop;
 
     }
 }

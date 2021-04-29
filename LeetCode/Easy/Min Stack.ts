@@ -1,3 +1,6 @@
+// Runtime: 128 ms, faster than 68.39% of TypeScript online submissions for Min Stack.
+// Memory Usage: 47 MB, less than 77.01% of TypeScript online submissions for Min Stack.
+
 class MinStack {
     minStack: Array<number>;
     stack: Array<number>;

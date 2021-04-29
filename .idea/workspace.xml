@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3a3920c-2113-4f5b-813c-2765eec5e601" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Easy/Two Sum.ts" afterDir="false" />
+    <list default="true" id="e3a3920c-2113-4f5b-813c-2765eec5e601" name="Default Changelist" comment="Two Sum">
+      <change afterPath="$PROJECT_DIR$/LeetCode/Easy/Min Stack.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/medium/Add Two.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,17 +80,20 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dev Files\Code-Practice-solns\LeetCode\medium" />
       <recent name="D:\Dev Files\Code-Practice-solns" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -122,8 +125,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565405232225</updated>
-      <workItem from="1619731278363" duration="1355000" />
+      <workItem from="1619731278363" duration="2673000" />
+      <workItem from="1619736945436" duration="640000" />
     </task>
+    <task id="LOCAL-00001" summary="Two Sum">
+      <created>1619733481129</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619733481129</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Two Sum">
+      <created>1619733583786</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619733583786</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -179,6 +198,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Two Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Two Sum" />
   </component>
   <component name="masterDetails">
     <states>

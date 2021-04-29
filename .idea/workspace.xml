@@ -78,6 +78,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dev Files\Code-Practice-solns" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">

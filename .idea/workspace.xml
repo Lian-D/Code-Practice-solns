@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3a3920c-2113-4f5b-813c-2765eec5e601" name="Default Changelist" comment="min stack">
+    <list default="true" id="e3a3920c-2113-4f5b-813c-2765eec5e601" name="Default Changelist" comment="stats">
+      <change afterPath="$PROJECT_DIR$/LeetCode/Easy/Palidrone Linked  List.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Easy/Single Number.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Easy/Min Stack.ts" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Easy/Min Stack.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +26,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -84,15 +86,13 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,7 +125,8 @@
       <option name="presentableId" value="Default" />
       <updated>1565405232225</updated>
       <workItem from="1619731278363" duration="2673000" />
-      <workItem from="1619736945436" duration="1613000" />
+      <workItem from="1619736945436" duration="2633000" />
+      <workItem from="1619907373365" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="Two Sum">
       <created>1619733481129</created>
@@ -148,7 +149,35 @@
       <option name="project" value="LOCAL" />
       <updated>1619738491447</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="min stack">
+      <created>1619739719451</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619739719451</updated>
+    </task>
+    <task id="LOCAL-00005" summary="min stack">
+      <created>1619739772742</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619739772742</updated>
+    </task>
+    <task id="LOCAL-00006" summary="min stack">
+      <created>1619739788390</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619739788390</updated>
+    </task>
+    <task id="LOCAL-00007" summary="stats">
+      <created>1619739880663</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1619739880663</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -209,7 +238,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Two Sum" />
     <MESSAGE value="min stack" />
-    <option name="LAST_COMMIT_MESSAGE" value="min stack" />
+    <MESSAGE value="stats" />
+    <option name="LAST_COMMIT_MESSAGE" value="stats" />
   </component>
   <component name="masterDetails">
     <states>

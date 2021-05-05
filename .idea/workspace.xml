@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3a3920c-2113-4f5b-813c-2765eec5e601" name="Default Changelist" comment="Max Depth Binary Tree" />
+    <list default="true" id="e3a3920c-2113-4f5b-813c-2765eec5e601" name="Default Changelist" comment="Merge Two Binary Trees">
+      <change afterPath="$PROJECT_DIR$/LeetCode/Easy/Contains Duplicate.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Easy/best time to buy stock.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/medium/product except self.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +86,7 @@
       <recent name="D:\Dev Files\Code-Practice-solns" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.product except self.ts">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -92,6 +97,9 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="product except self.ts" type="NodeJSConfigurationType" temporary="true" node-parameters="--require ts-node/register " path-to-js-file="$PROJECT_DIR$/LeetCode/medium/product except self.ts" working-dir="$PROJECT_DIR$/LeetCode/medium">
+      <method v="2" />
     </configuration>
     <configuration name="Two Sum.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
       <module name="Code-Practice-solns" />
@@ -108,6 +116,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.product except self.ts" />
         <item itemvalue="TypeScript.Two Sum.ts" />
       </list>
     </recent_temporary>
@@ -124,6 +133,9 @@
       <workItem from="1619736945436" duration="2633000" />
       <workItem from="1619907373365" duration="247000" />
       <workItem from="1620079505475" duration="1198000" />
+      <workItem from="1620087954149" duration="103000" />
+      <workItem from="1620169447479" duration="58000" />
+      <workItem from="1620181930679" duration="1986000" />
     </task>
     <task id="LOCAL-00001" summary="Two Sum">
       <created>1619733481129</created>
@@ -195,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620080765035</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Merge Two Binary Trees">
+      <created>1620088034370</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1620088034370</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -260,7 +279,20 @@
     <MESSAGE value="Single Number" />
     <MESSAGE value="Invert Binary Tree" />
     <MESSAGE value="Max Depth Binary Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Max Depth Binary Tree" />
+    <MESSAGE value="Merge Two Binary Trees" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge Two Binary Trees" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/LeetCode/medium/product except self.ts</url>
+          <line>29</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="masterDetails">
     <states>

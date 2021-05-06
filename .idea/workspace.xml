@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3a3920c-2113-4f5b-813c-2765eec5e601" name="Default Changelist" comment="Merge Two Binary Trees">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Easy/Contains Duplicate.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Easy/best time to buy stock.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/medium/product except self.ts" afterDir="false" />
+    <list default="true" id="e3a3920c-2113-4f5b-813c-2765eec5e601" name="Default Changelist" comment="Three Leetcode Solns">
+      <change afterPath="$PROJECT_DIR$/LeetCode/Easy/Climbing Stairs.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,13 +85,15 @@
     </key>
   </component>
   <component name="RunManager" selected="Node.js.product except self.ts">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -135,7 +135,8 @@
       <workItem from="1620079505475" duration="1198000" />
       <workItem from="1620087954149" duration="103000" />
       <workItem from="1620169447479" duration="58000" />
-      <workItem from="1620181930679" duration="1986000" />
+      <workItem from="1620181930679" duration="2124000" />
+      <workItem from="1620333936981" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary="Two Sum">
       <created>1619733481129</created>
@@ -214,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620088034370</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Three Leetcode Solns">
+      <created>1620185346014</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1620185346014</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -280,7 +288,8 @@
     <MESSAGE value="Invert Binary Tree" />
     <MESSAGE value="Max Depth Binary Tree" />
     <MESSAGE value="Merge Two Binary Trees" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge Two Binary Trees" />
+    <MESSAGE value="Three Leetcode Solns" />
+    <option name="LAST_COMMIT_MESSAGE" value="Three Leetcode Solns" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -288,7 +297,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/LeetCode/medium/product except self.ts</url>
           <line>29</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

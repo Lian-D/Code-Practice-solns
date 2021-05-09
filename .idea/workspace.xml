@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3a3920c-2113-4f5b-813c-2765eec5e601" name="Default Changelist" comment="majority element">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Easy/Find Disappeared In Array.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Easy/FizzBuzz.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,7 +138,7 @@
       <workItem from="1620181930679" duration="2124000" />
       <workItem from="1620333936981" duration="1532000" />
       <workItem from="1620518107284" duration="1764000" />
-      <workItem from="1620601592253" duration="88000" />
+      <workItem from="1620601592253" duration="762000" />
     </task>
     <task id="LOCAL-00001" summary="Two Sum">
       <created>1619733481129</created>
@@ -245,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620519861294</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="majority element">
+      <created>1620601696966</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1620601696966</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">

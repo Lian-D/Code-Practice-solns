@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3a3920c-2113-4f5b-813c-2765eec5e601" name="Default Changelist" comment="merge Two Sorted Linked Lists">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Easy/Binary Tree Inorder.ts" afterDir="false" />
+    <list default="true" id="e3a3920c-2113-4f5b-813c-2765eec5e601" name="Default Changelist" comment="Binary Tree Inorder">
+      <change afterPath="$PROJECT_DIR$/general Algos/insertSort.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +84,7 @@
       <recent name="D:\Dev Files\Code-Practice-solns" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.product except self.ts">
+  <component name="RunManager" selected="TypeScript.insertSort.ts">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -112,8 +112,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="insertSort.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
+      <module name="Code-Practice-solns" />
+      <option name="interpreterRef" value="project" />
+      <option name="interpreterOptions" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/general Algos" />
+      <option name="tsconfigFile" value="" />
+      <option name="extraTypeScriptOptions" value="" />
+      <option name="scriptName" value="$PROJECT_DIR$/general Algos/insertSort.ts" />
+      <option name="programParameters" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TypeScript.insertSort.ts" />
         <item itemvalue="Node.js.product except self.ts" />
         <item itemvalue="TypeScript.Two Sum.ts" />
       </list>
@@ -137,7 +151,9 @@
       <workItem from="1620333936981" duration="1532000" />
       <workItem from="1620518107284" duration="1764000" />
       <workItem from="1620601592253" duration="813000" />
-      <workItem from="1620765996962" duration="969000" />
+      <workItem from="1620765996962" duration="995000" />
+      <workItem from="1621237991860" duration="4000" />
+      <workItem from="1621381055596" duration="310000" />
     </task>
     <task id="LOCAL-00001" summary="Two Sum">
       <created>1619733481129</created>
@@ -265,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620766084236</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Binary Tree Inorder">
+      <created>1620767456194</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1620767456194</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -337,7 +360,8 @@
     <MESSAGE value="majority element" />
     <MESSAGE value="FizzBuzz" />
     <MESSAGE value="merge Two Sorted Linked Lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="merge Two Sorted Linked Lists" />
+    <MESSAGE value="Binary Tree Inorder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary Tree Inorder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

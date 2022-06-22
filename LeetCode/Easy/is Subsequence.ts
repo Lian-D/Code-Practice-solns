@@ -9,7 +9,7 @@ function isSubsequence(s: string, t: string): boolean {
         }
     }
     if (sIndex == s.length) {
-        return true
+        return true;
     } else {
         return false;
     }

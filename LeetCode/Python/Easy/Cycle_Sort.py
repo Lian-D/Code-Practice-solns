@@ -20,10 +20,6 @@ class Solution(object):
         arr[first] = arr[second]
         arr[second] = tempVal1
 
-        
-
- 
-
-
 solution = Solution
+print(solution.cycleSort(solution, [2, 6, 4, 3, 1, 5], 5))
 print(solution.cycleSort(solution, [2, 6, 4, 3, 1, 5], 5))

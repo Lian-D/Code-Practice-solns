@@ -4,7 +4,7 @@ class Solution(object):
         for i in magazine:
             if stringHash.get(i):
                 stringHash[i] += 1
-            else:
+            else: 
                 stringHash[i] = 1
         for i in ransomNote:
             if stringHash.get(i):
@@ -15,7 +15,7 @@ class Solution(object):
                     del stringHash[i]
             else: return False
         return True
-                
+
 
 solution = Solution()
 print(solution.canConstruct("abc", "abc"))

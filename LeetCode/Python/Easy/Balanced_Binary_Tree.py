@@ -8,6 +8,7 @@ class Solution(object):
     def isBalanced(self, root):
         if root is None: return True
         self.balanced = True
+        
         def countHeight(node):
             if node is None:
                 return 0
@@ -16,5 +17,6 @@ class Solution(object):
             if (abs(left - right) > 1):
                 self.balanced = False
             return max(left, right) + 1
+        
         countHeight(root)
         return self.balanced 

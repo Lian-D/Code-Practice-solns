@@ -16,5 +16,6 @@ class Solution(object):
     
 solution = Solution()
 solution.maxArea([1,8,6,2,5,4,8,3,7])
+solution.maxArea([1,8,1,8,1])
             
         
